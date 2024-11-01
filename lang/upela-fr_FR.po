@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Upela WP\n"
+"POT-Creation-Date: 2016-02-02 19:10+0100\n"
+"PO-Revision-Date: 2016-02-02 19:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: control/controlAdmin.php:15 control/controlAdmin.php:18
+#: control/controlAdmin.php:53
+msgid "Update"
+msgstr "Modifier"
+
+#: control/controlConnection.php:94
+msgid "You have succesfully installed Upela Connector on your website."
+msgstr "Vous avez installé le connecteur Upela sur votre site avec succès."
+
+#: control/controlConnection.php:94 model/Software.class.php:171
+msgid ""
+"We didn't find any E-commerce plugin activated on your website, please "
+"activate it."
+msgstr ""
+"Nous n'avons pas trouvé de plugin e-commerce activé sur ce site, merci de "
+"l'activer."
+
+#: control/controlConnection.php:99
+msgid "Wrong credentials."
+msgstr "Identifiants incorrects"
+
+#: controler.php:105
+msgid "Upela WordPress"
+msgstr "Upela WordPress"
+
+#: controler.php:105
+msgid "Upela"
+msgstr "Upela"
+
+#: controler.php:106
+msgid "Set Up | Upela WordPress"
+msgstr "Configuration | Upela WordPress"
+
+#: controler.php:106
+msgid "Set Up"
+msgstr "Configuration"
+
+#: controler.php:110
+msgid "Settings"
+msgstr "Paramètres"
+
+#: functions/woocommerce/functionsWoocommerce.php:215
+#: functions/woocommerce/functionsWoocommerce.php:217
+#: functions/woocommerce/functionsWoocommerce.php:220
+#: functions/woocommerce/functionsWoocommerce.php:242
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: model/Software.class.php:166
+#, php-format
+msgid "You are currently running %s with the version %s."
+msgstr "Vous exécutez actuellement %s avec la version %s."
+
+#: model/Software.class.php:167
+msgid "This one is fully compatible with the Upela plugin."
+msgstr "Celle-ci est totalement compatible avec le plugin Upela."
+
+#: view/admin.php:22 view/upela_admin.php:3
+msgid "Credentials to access your store from Upela"
+msgstr "Identifiants pour accéder à votre boutique depuis Upela"
+
+#: view/admin.php:23 view/upela_admin.php:4
+msgid "Credentials your will enter to configure your store in Upela"
+msgstr "Identifiants à saisir pour configurer votre boutique Upela"
+
+#: view/admin.php:27
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: view/admin.php:31
+msgid "Password"
+msgstr "Mot de passe"
+
+#: view/admin.php:39
+msgid "URL Module"
+msgstr "URL du module"
+
+#: view/admin.php:41 view/upela_admin.php:22
+msgid "Please enter this url when you will set up your store on Upela"
+msgstr ""
+"Veuillez entrer cette url lorsque vous configurerez votre boutique dans Upela"
+
+#: view/admin.php:47
+msgid "Store Address"
+msgstr "Adresse de la boutique"
+
+#: view/admin.php:52
+msgid "Company Name"
+msgstr "Société"
+
+#: view/admin.php:56
+msgid "Street Line 1"
+msgstr "Adresse (ligne 1)"
+
+#: view/admin.php:60
+msgid "Street Line 2"
+msgstr "Adresse (ligne 2)"
+
+#: view/admin.php:64
+msgid "Street Line 3"
+msgstr "Adresse (ligne 3)"
+
+#: view/admin.php:68
+msgid "City"
+msgstr "Ville"
+
+#: view/admin.php:72
+msgid "State"
+msgstr "Etat"
+
+#: view/admin.php:76
+msgid "Zip Code"
+msgstr "Code postal"
+
+#: view/admin.php:80
+msgid "Country"
+msgstr "Pays"
+
+#: view/admin.php:91
+msgid "Phone"
+msgstr "Téléphone"
+
+#: view/admin.php:95
+msgid "Email"
+msgstr "Email"
+
+#: view/setUp.php:2
+msgid "Step 1 : Insert your information in the section Settings of this plugin"
+msgstr ""
+"Etape 1 : Saisissez les informations dans la section Paramètres de ce plugin"
+
+#: view/setUp.php:3
+msgid "Configure the credentials to access your store from Upela"
+msgstr "Configurez les identifiants pour accéder à votre boutique depuis Upela"
+
+#: view/setUp.php:4
+msgid "Configure your store address"
+msgstr "Configurez l'adresse de votre boutique"
+
+#: view/setUp.php:7
+msgid "Step 2 : Configure your store (Username, Password, Module URL) in Upela"
+msgstr ""
+"Etape 2 : Configurez votre boutique (Nom d'utilisateur, mot de passe, URL du "
+"module) dans Upela"
+
+#: view/upela_admin.php:17
+msgid "Create"
+msgstr "Créer"
+
+#~ msgid "Upela Account"
+#~ msgstr "Compte Upela"
+
+#~ msgid "Please enter this url when you will set up your Upela Account"
+#~ msgstr ""
+#~ "Veuillez entrer cette url lorsque vous configurerez votre boutique Upela"
+
+#~ msgid ""
+#~ "We didn't find any E-commerce plugin activated on your website, please "
+#~ "activate it. If you are using a multisite, please do not activate the "
+#~ "plugin network wide. Activate the plugin on each instance new sub website "
+#~ "and the plugin will work correctly."
+#~ msgstr ""
+#~ "Nous n'avons pas trouvé de plugin e-commerce activé sur ce site, merci de "
+#~ "l'activer."
+
+#~ msgid "This one is fully compatible with the Upela Connector plugin."
+#~ msgstr "Celle-ci est totalement compatible avec le plugin Upela."
